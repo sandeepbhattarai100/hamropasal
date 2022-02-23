@@ -10,7 +10,7 @@ export default class App extends Component {
     return (
       <div>
         <h1>yo chai sandeep le change haneko hai</h1>
-        <h2>in love with the shape of you</h2>
+        <h2>in love with the shape of you.</h2>
    
       </div>
     )
