@@ -9,7 +9,7 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        <h1>welcome welccome keta ho sikam milera aba 😂😂😂</h1>
+        <h1>yo chai sandeep le change haneko hai</h1>
       </div>
     )
   }
